@@ -14,3 +14,6 @@ validatePin("400088");
 
 //PIN Code UC2
 validatePin("A400088");
+
+//PIN Code UC3
+validatePin("400088B"); //Invalid Pin 
