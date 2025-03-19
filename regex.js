@@ -36,3 +36,6 @@ function validateEmail(email) {
 
 // Email UC-1 
 validateEmail("abc@bridgelabz.co"); //Valid Email
+
+// Email UC-2
+validateEmail("abc.xyz@bridgelabz.co.in"); // Valid Email
