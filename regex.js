@@ -11,3 +11,6 @@ function validatePin(pin) {
 
 //PIN Code UC1
 validatePin("400088"); 
+
+//PIN Code UC2
+validatePin("A400088");
