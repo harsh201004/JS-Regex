@@ -17,3 +17,6 @@ validatePin("A400088");
 
 //PIN Code UC3
 validatePin("400088B"); //Invalid Pin 
+
+//PIN Code UC4
+validatePin("400 088"); //Valid Pin
